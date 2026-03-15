@@ -96,7 +96,7 @@ Built a machine learning model using Logistic Regression to predict heart diseas
 
 Email: vennapusayaswanth6281@gmail.com  
 GitHub: https://github.com/VennapusaYaswanthReddy  
-LinkedIn: (Add your LinkedIn profile)
+LinkedIn: https://www.linkedin.com/in/vyaswanthreddy/
 
 ---
 
