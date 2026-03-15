@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yaswanth Reddy Portfolio</title>
+
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+color:#333;
+}
+
+header{
+background:#0a192f;
+color:white;
+padding:30px;
+text-align:center;
+}
+
+nav{
+background:#112240;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+section{
+padding:40px;
+max-width:900px;
+margin:auto;
+}
+
+h2{
+color:#0a192f;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:15px 0;
+border-radius:8px;
+box-shadow:0 2px 5px rgba(0,0,0,0.1);
+}
+
+.skills span{
+display:inline-block;
+background:#0a192f;
+color:white;
+padding:6px 12px;
+margin:5px;
+border-radius:5px;
+}
+
+footer{
+text-align:center;
+padding:20px;
+background:#0a192f;
+color:white;
+}
+
+button{
+padding:10px 20px;
+background:#0a192f;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Vennapusa Yaswanth Reddy</h1>
+<p>AI & Machine Learning Enthusiast | B.Tech CSE (AIML)</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#skills">Skills</a>
+<a href="#projects">Projects</a>
+<a href="#experience">Experience</a>
+<a href="#certifications">Certifications</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+<h2>About Me</h2>
+<p>
+I am a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at Alliance University.
+I enjoy building intelligent systems using Machine Learning, Generative AI, and Retrieval-Augmented Generation.
+</p>
+</section>
+
+<section id="skills">
+<h2>Skills</h2>
+
+<div class="skills">
+<span>Python</span>
+<span>SQL</span>
+<span>Machine Learning</span>
+<span>TensorFlow</span>
+<span>PyTorch</span>
+<span>Keras</span>
+<span>Scikit-learn</span>
+<span>DSA</span>
+<span>DBMS</span>
+<span>OOPS</span>
+<span>Computer Networks</span>
+</div>
+
+</section>
+
+<section id="projects">
+<h2>Projects</h2>
+
+<div class="card">
+<h3>Retrieval-Augmented Generation (PDF Q&A)</h3>
+<p>
+AI-based system that allows users to upload PDFs and ask questions about the document.
+Uses RAG architecture and language models to generate answers.
+</p>
+</div>
+
+<div class="card">
+<h3>Smart Exam Registration System</h3>
+<p>
+Web-based platform for students to register for exams, browse upcoming exams, and manage registrations.
+</p>
+</div>
+
+<div class="card">
+<h3>Heart Disease Prediction using ML</h3>
+<p>
+Machine learning model using Logistic Regression to predict heart disease risk using healthcare data.
+</p>
+</div>
+
+</section>
+
+<section id="experience">
+<h2>Experience</h2>
+
+<div class="card">
+<h3>Python Intern – YBI Foundation</h3>
+<ul>
+<li>Improved coding style and Python programming</li>
+<li>Worked on algorithms and problem solving</li>
+<li>Practiced writing efficient code</li>
+</ul>
+</div>
+
+</section>
+
+<section id="certifications">
+<h2>Certifications</h2>
+
+<div class="card">
+<ul>
+<li>Microsoft Azure AI Fundamentals</li>
+<li>Python Preparatory – Intellipaat</li>
+<li>AI Tools & ChatGPT – Be10x</li>
+</ul>
+</div>
+
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+
+<p>Email: vennapusayaswanth6281@gmail.com</p>
+<p>Phone: +91-6281218080</p>
+<p>Location: Bengaluru, India</p>
+
+<button onclick="window.location.href='https://github.com/'">
+GitHub Profile
+</button>
+
+</section>
+
+<footer>
+<p>© 2026 Vennapusa Yaswanth Reddy</p>
+</footer>
+
+</body>
+</html>
